@@ -68,4 +68,8 @@ How about we go through those steps again, except this time, we'll work with 10 
  * steak
  * sushi
 
+Some predictions:
+
+Our model's predictions aren't very good, this is because it's only performing at ~35% accuracy on the test dataset.
+
 
