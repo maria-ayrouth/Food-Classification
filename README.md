@@ -43,10 +43,13 @@ pizza_steak <- top level folder
 7. Repeat until satisfied
 
 finally , we got 
-![download (27)](https://user-images.githubusercontent.com/90212538/193803059-30f28902-2097-4067-ac33-e40d4d2e22d9.png)
+![Screenshot (811)](https://user-images.githubusercontent.com/90212538/193805814-dde55db2-b6bd-4a6e-9756-5c9b2a4d976a.png)
+
 
 Making a prediction with our trained model
-![download (28)](https://user-images.githubusercontent.com/90212538/193803163-2378e5b7-690f-4829-b3ee-894d73f8d32c.png)
+![Screenshot (812)](https://user-images.githubusercontent.com/90212538/193805834-ec630c28-928a-40dd-a84d-afa169588396.png)
+
+
 
 ## Multi-class Classification
 
