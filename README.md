@@ -44,12 +44,13 @@ pizza_steak <- top level folder
 
 finally , we got 
 
-![Screenshot (811)](https://user-images.githubusercontent.com/90212538/193805814-dde55db2-b6bd-4a6e-9756-5c9b2a4d976a.png)
+![Screenshot (812)](https://user-images.githubusercontent.com/90212538/193805834-ec630c28-928a-40dd-a84d-afa169588396.png)
 
 
 Making a prediction with our trained model
 
-![Screenshot (812)](https://user-images.githubusercontent.com/90212538/193805834-ec630c28-928a-40dd-a84d-afa169588396.png)
+![Screenshot (811)](https://user-images.githubusercontent.com/90212538/193805814-dde55db2-b6bd-4a6e-9756-5c9b2a4d976a.png)
+
 
 
 
