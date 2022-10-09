@@ -70,6 +70,8 @@ How about we go through those steps again, except this time, we'll work with 10 
 
 Some predictions:
 
-Our model's predictions aren't very good, this is because it's only performing at ~35% accuracy on the test dataset.
+![download (31)](https://user-images.githubusercontent.com/90212538/194744986-6de17c3f-ad5e-4c1f-9473-a516db90ae75.png)
+
+Our model's predictions aren't very good, this is because it's only performing at ~50% accuracy on the test dataset.
 
 
