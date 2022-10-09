@@ -70,7 +70,8 @@ How about we go through those steps again, except this time, we'll work with 10 
 
 Some predictions:
 
-![download (31)](https://user-images.githubusercontent.com/90212538/194744986-6de17c3f-ad5e-4c1f-9473-a516db90ae75.png)
+![Screenshot (817)](https://user-images.githubusercontent.com/90212538/194745431-f68eac9a-faa4-4a3b-bb96-4e9c2a34f7c3.png)
+
 
 Our model's predictions aren't very good, this is because it's only performing at ~50% accuracy on the test dataset.
 
